@@ -54,4 +54,4 @@ A list of useful and interesting things that helped and continue to help me on m
 
 ## Reading list
 
-[My reading lis](https://www.notion.so/Reading-list-fc18fc087bc94e3d9de112af0797dab5)
+[My reading list](https://www.notion.so/Reading-list-fc18fc087bc94e3d9de112af0797dab5)
